@@ -1,0 +1,50 @@
+ETAPA 1 - Problema e escopo
+Anthony:
+1 - Contexto (Ferramentas utilizadas pelos profissionais antes da criação do sistema e como são usadas, quem está querendo a criação do sistema.)
+2 - Problemas e dificuldades que o sistema resolve
+
+ETAPA 2 - Objetivo, Escopo e glossário
+Leonardo:
+1 - Objetivo (O que a plataforma pretende fazer)
+2 - Escopo (O que a plataforma fará de forma mais detalhada)
+Davi:
+1 - Glossário COMPLETO do domínio (Termo e significado, ex: Usuário (termo) -> Pessoa que possui acesso à plataforma (significado) / Atendimento (termo) -> Registro conceitual de uma sessão
+
+ETAPA 3 - Atores e Responsabilidades
+Diego:
+1 - Definir os atores e explicar o que cada um faz
+
+ETAPA 4 e 5 - requisitos funcionais e não funcionais
+Leonardo, Davi, Diego, Anthony: Primeiro (ANTES DE CRIAR OS REQUISITOS FUNCIONAIS E NÃO FUNCIONAIS): Cada um deve adicionar ao menos duas regras de negócio
+Segundo (APENAS APÓS A CRIAÇÃO DAS REGRAS DE NEGÓCIO): Cada um deve adicionar ao menos 3 requisitos funcionais e ao menos 2 requisitos não funcionais (Isso não tem como prever, talvez precisamos de mais, mas isso nós veremos depois).
+
+ETAPA 6 - Histórias do usuário
+Diego: Usuários, login e permissões
+Anthony: Psicólogos e Pacientes.
+Davi: Agenda e atendimentos.
+Leonardo: Auditoria + inovação.
+
+ETAPA 7 - Critérios de aceite:
+Critérios de aceite deverão ser adicionados em conjunto com a criação dos requisitos funcionais, então criem eles ao mesmo tempo que criam requisitos que precisem deles, por ex o de login, RF -> "O sistema deve permitir que o usuário faça cadastro no sistema", o critério de aceite deve ser feito em conjunto com esse requisito funcional, ou seja, CA -> "O campo cpf deve validar o formato do CPF digitado" e etc.
+
+ETAPA 8 — Casos de uso
+
+ETAPA 9 — Especificar os casos de uso
+Escolhemos os casos mais importantes e descrevemos cada um.
+A estrutura deve conter:
+ Nome;
+ Objetivo;
+ Atores;
+ Pré-condições;
+ Pós-condições;
+ Fluxo principal;
+ Fluxos alternativos;
+ Exceções.
+
+ETAPA 10 — Modelo de domínio / Diagrama de classes
+
+ETAPA 11 — Definir relacionamentos / cardinalidade
+
+ETAPA 12 — Diagrama de objetos
+
+ETAPA 13 — Diagramas comportamentais

@@ -1,0 +1,4 @@
+O que acontece na prática em sistemas clínicos:
+Paciente adulto: geralmente não tem conta de acesso por padrão. Ele é um cadastro administrativo (nome, CPF, contato, histórico). A conta de acesso só é criada se ele quiser agendar online, ver resultados, etc.
+Paciente menor: nunca tem conta própria — quem interage com o sistema é o responsável legal.
+Paciente que atinge 18 anos: pode solicitar a criação de conta própria. A clínica, então, cria (ou não, se ele não quiser).
