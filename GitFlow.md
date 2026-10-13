@@ -76,6 +76,7 @@ Sugestões de mensagens de commit:
 ```bash
 git push -u origin docs/requisitos-funcionais
 ```
+Substitua o nome pela sua branch
 
 ### Passo 6 — Abra um Pull Request
 
