@@ -1,0 +1,2 @@
+2. Objetivo
+O objetivo do projeto é desenvolver a modelagem de uma plataforma integrada que centralize o gerenciamento administrativo e profissional da organização, reunindo em um único sistema as informações de usuários, psicólogos, pacientes, vínculos, agendamentos e atendimentos, além dos mecanismos de controle de acesso e auditoria. A modelagem também contempla a proposta de um ambiente de pesquisa epidemiológica baseado em dados anonimizados, definindo a estrutura e os relacionamentos entre os componentes da solução.

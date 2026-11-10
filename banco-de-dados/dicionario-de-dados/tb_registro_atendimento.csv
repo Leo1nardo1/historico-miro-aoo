@@ -1,0 +1,6 @@
+﻿"Coluna","Tipo","Restrição","Descrição"
+"id","INT","PK, Auto Incremento","Identificador do registro."
+"id_agendamento","INT","FK, UNIQUE, NOT NULL","O atendimento exige um agendamento confirmado (RN-044). UNIQUE garante 1 registro por agendamento."
+"id_prontuario","INT","FK, NOT NULL","O registro compõe o prontuário."
+"data_hora_inicio","TIMESTAMP","NOT NULL","Data e hora real da realização da sessão."
+"observacoes","TEXT","NOT NULL","A evolução clínica descrita pelo psicólogo."

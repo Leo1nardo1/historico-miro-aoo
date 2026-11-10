@@ -1,0 +1,4 @@
+﻿"Coluna","Tipo","Restrição","Descrição"
+"id","INT","PK, Auto Incremento","Identificador único do prontuário."
+"id_paciente","INT","FK, UNIQUE, NOT NULL","O paciente é o titular. A restrição UNIQUE garante 1 prontuário por paciente."
+"data_criacao","TIMESTAMP","NOT NULL","Data de abertura do prontuário."

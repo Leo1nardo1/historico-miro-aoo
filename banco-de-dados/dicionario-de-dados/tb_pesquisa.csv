@@ -1,0 +1,8 @@
+﻿"Coluna","Tipo","Restrição","Descrição"
+"id","INT","PK, Auto Incremento","Identificador da pesquisa."
+"titulo","VARCHAR(150)","NOT NULL","Título do projeto de pesquisa."
+"descricao","TEXT","NULL","Detalhes da pesquisa."
+"estado","VARCHAR(30)","NOT NULL","Enum: RASCUNHO, EM_AVALIACAO, EM_COLETA, etc (RN-052)."
+"data_criacao","TIMESTAMP","NOT NULL","Data de início do rascunho."
+"data_submissao","TIMESTAMP","NULL","Quando foi enviada ao Comitê de Ética."
+"data_conclusao","TIMESTAMP","NULL","Quando a pesquisa foi finalizada."

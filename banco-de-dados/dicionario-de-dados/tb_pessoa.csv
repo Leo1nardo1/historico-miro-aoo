@@ -1,0 +1,7 @@
+﻿"Coluna","Tipo","Restrição","Descrição"
+"id","INT","PK, Auto Incremento","Identificador único da pessoa."
+"nome","VARCHAR(100)","NOT NULL","Nome completo da pessoa."
+"cpf","VARCHAR(11)","UNIQUE, NOT NULL","CPF (apenas números) para identificação única."
+"data_nascimento","DATE","NOT NULL","Usado para calcular maioridade (Regra de Negócio RN-050)."
+"email","VARCHAR(100)","NOT NULL","E-mail de contato."
+"telefone","VARCHAR(20)","NULL","Telefone de contato."
