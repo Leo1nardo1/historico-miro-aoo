@@ -3,7 +3,6 @@ Antes da proposta de desenvolvimento da plataforma, a organização utilizava di
 Cada ferramenta atendia a uma finalidade específica. Os cadastros de profissionais e pacientes, por exemplo, podiam ser mantidos em planilhas, enquanto a organização de horários e compromissos era realizada por meio de agendas. Documentos e informações relacionados aos atendimentos também podiam permanecer armazenados separadamente.
 Essa forma de organização fazia com que as informações ficassem distribuídas em diferentes locais, dificultando sua consulta, atualização e administração. A ausência de integração entre as ferramentas também dificultava o controle dos acessos, o acompanhamento das atividades dos profissionais e a identificação de alterações realizadas nos registros.
 Diante dessas dificuldades, a organização, que reúne psicólogos de diferentes áreas de atuação, identificou a necessidade de centralizar suas informações e atividades em uma única plataforma. A proposta busca proporcionar uma estrutura integrada para o gerenciamento administrativo e profissional, facilitando o acesso às informações e melhorando a organização dos processos internos.
-
 1.1 Problemas e dificuldades identificados
 A utilização de ferramentas independentes para gerenciar as atividades da organização resulta em dificuldades operacionais e administrativas. Entre os principais problemas identificados estão:
 Dispersão dos cadastros: informações de usuários, psicólogos e pacientes podem permanecer armazenadas em diferentes ferramentas.
